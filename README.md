@@ -1,4 +1,4 @@
-cv
+stefan's computer vision experiments
 ==
 
-  Stefan's cv-playground. Go away!
+  nothing to see here. go away.
